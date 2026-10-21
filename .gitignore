@@ -1,0 +1,4 @@
+backup.conf
+backup.log
+cron.log
+*.zip
